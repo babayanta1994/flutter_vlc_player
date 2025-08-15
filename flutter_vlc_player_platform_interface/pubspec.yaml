@@ -4,7 +4,7 @@ homepage: https://github.com/solid-software/flutter_vlc_player
 version: 2.0.5
 
 environment:
-  sdk: ^3.7.0
+  sdk: ^3.0.0
   flutter: '>=3.3.0'
 
 dependencies:
